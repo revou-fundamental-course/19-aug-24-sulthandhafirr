@@ -1,0 +1,71 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    height: 48px;
+    width: 48px;
+    background-image: url(https://cdn-icons-png.flaticon.com/512/3273/3273898.png);
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.container{
+    display: flex;
+
+}
+
+.item{
+    border: 1px solid;
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.banner{
+    height: 800px;
+    background-image: url(https://media.printables.com/media/prints/593185/images/4864098_747f5ba4-62e1-40f8-92de-64668b8e2ba5_9314dd72-b7f7-4052-92de-341a2c3d2aa0/thumbs/inside/1280x960/jpg/landscape.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+.profile0{
+    display: flex;
+    justify-content: space-around;
+}
+
+.profile{
+    height: 170px;
+    text-align: -webkit-center;
+}
+
+.profile2{
+    height: 100px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVpB_t-ZbBGu8b_q3nmKVIfxu8YqJqEZzht65TwC_pCwOiIRp-zfyYiq23rOligKjl40&usqp=CAU);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    width: 100px;
+}
+
+.teks{
+    width: 1440px;
+}
+
+.teks1{
+    width: 1440px;
+    height: 80px;
+}
+
+.button{
+    width: 1493px;
+}
+
+.end{
+    text-align: end;
+}
